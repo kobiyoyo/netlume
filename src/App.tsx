@@ -1,5 +1,6 @@
+/* eslint-disable func-names */
 import React from 'react';
-import { Routes, Route, Link } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import MapView from './components/MapView/index';
 
 const App = function () {
